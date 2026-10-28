@@ -1,0 +1,1109 @@
+{
+  "updatedAt": "2026-10-29",
+  "assumedCohort": "2027届",
+  "description": "公开证据求职清单，不是全国企业名录或实时招聘系统。",
+  "jobs": [
+    {
+      "id": "hand",
+      "company": "上海汉得信息技术股份有限公司",
+      "kind": "中国企业",
+      "sector": "IT / 咨询",
+      "role": "数智化咨询顾问 · 对日方向",
+      "location": "上海 / 大连 → 日本",
+      "cnSalary": "8,000–10,000 元/月",
+      "jpSalary": "未公开",
+      "requirements": "日语专业本科；N1；英语 CET6；接受海内外出差；财务或计算机背景优先。",
+      "fit": "优先了解",
+      "route": "日本岗位明确",
+      "evidence": "培训期优秀者可直接签约汉得九州、常驻日本。",
+      "cohort": "2027届",
+      "status": "2027校招线索",
+      "applyUrl": "https://career.hand-china.com",
+      "applyType": "官方网申",
+      "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/99983.html",
+      "note": "日本录用需通过培训考核，国内标薪不能视作赴日薪资；先核对自己的六级。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://career.nankai.edu.cn/correcruit/content/id/99983.html"
+        },
+        {
+          "label": "2027校招公告",
+          "url": "https://myjob.dlmu.edu.cn/campus/view/id/868532"
+        },
+        {
+          "label": "公告投递邮箱",
+          "url": "mailto:career03@vip.hand-china.com"
+        }
+      ]
+    },
+    {
+      "id": "sys",
+      "company": "西安裕日软件有限公司 / SYS集团",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "日语专业对日直送 · 软件开发培养",
+      "location": "西安培训 → 日本（配属地待定）",
+      "cnSalary": "培训期工资未公开",
+      "jpSalary": "20万日元/月；奖金每年2次",
+      "requirements": "日语专业本科及以上；N2以上；接受长期赴日；无需开发经验，培训后须通过软考。",
+      "fit": "优先了解",
+      "route": "日本岗位明确",
+      "evidence": "简章写明国内技术培训、考试合格后办理赴日工作签证。",
+      "cohort": "大三 / 大四 / 往届（未标年）",
+      "status": "历史项目待确认",
+      "applyUrl": "mailto:hr.xa@sysystem.com.cn",
+      "applyType": "邮件咨询/投递",
+      "sourceUrl": "https://flc.scu.edu.cn/__local/E/44/A9/59C47896CE906B1C8AB78C5DB47_CC3178CC_1367C2.pdf",
+      "note": "简章称不收费、首年免费宿舍；须复核现有名额、培训工资、服务期与考试未过安排。历史汇率折算未采用。",
+      "deadline": "",
+      "verification": "PDF正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://flc.scu.edu.cn/__local/E/44/A9/59C47896CE906B1C8AB78C5DB47_CC3178CC_1367C2.pdf"
+        },
+        {
+          "label": "2026年高校访企记录",
+          "url": "https://yoyyxy.xafu.edu.cn/info/1521/28258.htm"
+        }
+      ]
+    },
+    {
+      "id": "acty",
+      "company": "北京亚科特软件技术有限公司 / ACTY SYSTEM",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "日本正社员 · 软件开发实习培养",
+      "location": "国内招募 → 日本静冈 / 东京 / 大阪",
+      "cnSalary": "公告头部标10,000–15,000元；适用阶段不明",
+      "jpSalary": "正文仅写日本正社员16薪；月薪未明",
+      "requirements": "2027本科/硕士；正文列日语专业；须会一种编程语言和SQL，能用数据库；英语与计算机应用能力。",
+      "fit": "补技能",
+      "route": "日本岗位明确",
+      "evidence": "在校培训/实习，考核优秀者毕业后赴日，以日本正社员录用。",
+      "cohort": "2027届",
+      "status": "2027校招线索",
+      "applyUrl": "mailto:wangsg@bj-acty.com",
+      "applyType": "邮件投递",
+      "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118465.html",
+      "note": "页面专业栏写计算机相关，正文含日语专业，存在口径差异，先邮件确认；工资币种、阶段、16薪是否保证均需核实。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://career.nankai.edu.cn/correcruit/content/id/118465.html"
+        }
+      ]
+    },
+    {
+      "id": "ntt",
+      "company": "NTT DATA（中国）信息技术有限公司",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "系统运营维护担当 · 日语",
+      "location": "西安 / 无锡 / 东京",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2026届全日制本科/硕士；第一学历日语或英语；日语岗N1且口语流利；IT项目经验优先，可接受夜勤者优先。",
+      "fit": "优先了解",
+      "route": "日本岗位明确",
+      "evidence": "岗位地点含东京，明确长期日本出差、出向以及海外工作学习机会。",
+      "cohort": "2026届（2027需问）",
+      "status": "历史项目待确认",
+      "applyUrl": "mailto:xazp.job@nttdata.com",
+      "applyType": "邮件咨询/投递",
+      "sourceUrl": "https://job.xpu.edu.cn/detail/career?id=675412",
+      "note": "2025-11-03宣讲，不能当成2027在招；先问新一届名额、夜勤频次与赴日条件。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://job.xpu.edu.cn/detail/career?id=675412"
+        }
+      ]
+    },
+    {
+      "id": "ies",
+      "company": "艾瑞（威海）信息技术有限公司",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "赴日SAP顾问 · 零基础培养",
+      "location": "山东威海 → 日本项目地",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2026高校招聘列日语、计算机、软件工程技术等专业；零基础培养，仍需学习SAP与业务流程。",
+      "fit": "优先了解",
+      "route": "日本岗位明确",
+      "evidence": "2026招聘列赴日SAP顾问；官网介绍两地培养及赴日参与开发。",
+      "cohort": "2026招聘会（2027需问）",
+      "status": "历史项目待确认",
+      "applyUrl": "https://iesolutions.com.cn/hr.html",
+      "applyType": "官网人才入口",
+      "sourceUrl": "https://it.dlufl.edu.cn/info/1043/2831.htm",
+      "note": "官网本次正文抓取超时，赴日培养制度仅检索摘要；没有公开2027薪资、名额或免培训费承诺。",
+      "deadline": "",
+      "verification": "高校正文/官网摘要",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://it.dlufl.edu.cn/info/1043/2831.htm"
+        },
+        {
+          "label": "官网人才策略（摘要）",
+          "url": "https://iesolutions.com.cn/hr.html"
+        }
+      ]
+    },
+    {
+      "id": "mitsui",
+      "company": "三井物产（中国）/ 三井物产（上海）",
+      "kind": "日资企业",
+      "sector": "商社 / 金融",
+      "role": "2027综合职 · General Position",
+      "location": "北京 / 上海；未来调动国家未定",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2027年6月底前取得本科/硕士学位，7月可入职；专业不限；N1和/或TOEIC800相当；接受国内外调动。",
+      "fit": "优先了解",
+      "route": "全球调动",
+      "evidence": "官网列海外派遣项目和国际调动意愿，日本具体名额、年限未承诺。",
+      "cohort": "2027届",
+      "status": "有明确截止",
+      "applyUrl": "https://www.mitsui.com/cn/en/careers/recruitment/index.html",
+      "applyType": "官网公告内扫码",
+      "sourceUrl": "https://www.mitsui.com/cn/en/careers/recruitment/index.html",
+      "note": "上海2026-10-30截止；北京2026-11-22截止。官网为二维码申请，请打开对应城市二维码。属于竞争性投递，无学校类型录取保证。",
+      "deadline": "2026-10-30",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.mitsui.com/cn/en/careers/recruitment/index.html"
+        }
+      ]
+    },
+    {
+      "id": "cscec",
+      "company": "中建－大成建筑有限责任公司",
+      "kind": "中日合资",
+      "sector": "制造 / 工程",
+      "role": "职能管理类 · 含日语专业",
+      "location": "北京及国内项目；研修在日本",
+      "cnSalary": "首年年收入11–14万元（公告口径）",
+      "jpSalary": "研修期补贴未公开",
+      "requirements": "2027本科及以上；专业课无补考；英语CET4或同等外语；Office；日语专业列入职能管理。",
+      "fit": "优先了解",
+      "route": "赴日研修",
+      "evidence": "本科入职满3年可参加选拔，赴大成建设研修6–9个月；并非长期驻日岗位。",
+      "cohort": "2027届",
+      "status": "2027校招线索",
+      "applyUrl": "https://career.hebut.edu.cn/home/correcruit/content/id/81870.html",
+      "applyType": "公告内扫码/邮箱",
+      "sourceUrl": "https://career.hebut.edu.cn/home/correcruit/content/id/81870.html",
+      "note": "投递入口与邮箱以公告内图片为准；研修需选拔，海外常驻工作地公告写印尼，不能等同驻日本。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://career.hebut.edu.cn/home/correcruit/content/id/81870.html"
+        }
+      ]
+    },
+    {
+      "id": "hyron",
+      "company": "上海海隆软件股份有限公司",
+      "kind": "中国企业",
+      "sector": "IT / 咨询",
+      "role": "软件开发工程师 / 海外直招历史方向",
+      "location": "上海；历史海外岗在东京",
+      "cnSalary": "2027开发岗9,000–15,000元/月",
+      "jpSalary": "当前日本岗薪资未公开",
+      "requirements": "2027开发岗列计算机、电子、通信、数学、金融等相关专业；至少一门编程语言；SQL优先；日语专业需确认能否跨专业。",
+      "fit": "补技能",
+      "route": "日本岗位明确",
+      "evidence": "2026简章有培训合格赴日本海隆的海外直招岗；当前2027岗位仅确认国内开发招聘。",
+      "cohort": "2027国内岗 / 2026海外制度",
+      "status": "当前国内岗/赴日待问",
+      "applyUrl": "https://www.ncss.cn/student/jobs/QMcspSV58xGeVmcGMcu3SR/detail.html",
+      "applyType": "国家平台岗位页",
+      "sourceUrl": "https://www.ncss.cn/student/jobs/QMcspSV58xGeVmcGMcu3SR/detail.html",
+      "note": "2027薪资来自10-28更新的检索摘要；正文动态加载。2026公告已过期，不能据此承诺2027直赴日。",
+      "deadline": "",
+      "verification": "当前摘要/历史正文",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.ncss.cn/student/jobs/QMcspSV58xGeVmcGMcu3SR/detail.html"
+        },
+        {
+          "label": "已过期2026海外招聘",
+          "url": "https://cug.91wllm.cn/campus/view/id/982774"
+        },
+        {
+          "label": "历史招聘邮箱（先咨询）",
+          "url": "mailto:job@hyron.com"
+        }
+      ]
+    },
+    {
+      "id": "softroad",
+      "company": "西安丝路软件有限责任公司",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "日本正社员 PG / SE / BSE / PL",
+      "location": "西安联络 / 日本项目地",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "技术开发/设计岗位；需按等级确认项目经验、日语与编程要求，当前可见信息不足以确认零经验日语应届生。",
+      "fit": "补技能",
+      "route": "日本岗位明确",
+      "evidence": "国内招聘页面列日本正社员岗位，公司介绍有赴日工作机会。",
+      "cohort": "社招 / 应届需确认",
+      "status": "岗位页可查",
+      "applyUrl": "https://www.zhaopin.com/jobdetail/CC133524330J40314537304.htm",
+      "applyType": "招聘平台岗位页",
+      "sourceUrl": "https://www.zhaopin.com/jobdetail/CC133524330J40314537304.htm",
+      "note": "可见介绍支持赴日路径，不能把PG/SE/BSE当成零基础校招；不采用社招薪资推算应届收入。",
+      "deadline": "",
+      "verification": "检索摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.zhaopin.com/jobdetail/CC133524330J40314537304.htm"
+        }
+      ]
+    },
+    {
+      "id": "gsd",
+      "company": "株式会社GSD",
+      "kind": "日本企业（补充直招）",
+      "sector": "IT / 咨询",
+      "role": "2027新卒 · 开发工程师",
+      "location": "国内可应聘 → 日本",
+      "cnSalary": "不适用",
+      "jpSalary": "本科23万日元/月；奖金年2次",
+      "requirements": "本科；N2及日语面试；IT相关专业优先；接受海外居住者；2027-03-01可入职。",
+      "fit": "补技能",
+      "route": "日本岗位明确",
+      "evidence": "平台写明国外在住者可投、日本正社员、常驻日本。",
+      "cohort": "2027新卒 / 毕业生",
+      "status": "入职日期需核对",
+      "applyUrl": "https://www.zhaopin.com/jobdetail/CC293515380J40863403511.htm",
+      "applyType": "招聘平台岗位页",
+      "sourceUrl": "https://www.zhaopin.com/jobdetail/CC293515380J40863403511.htm",
+      "note": "3月入职可能早于国内6月毕业，需确认能否延后；平台称奖金上年约4个月，不视作未来保证。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.zhaopin.com/jobdetail/CC293515380J40863403511.htm"
+        }
+      ]
+    },
+    {
+      "id": "kingsoft",
+      "company": "金山软件株式会社 KINGSOFT Japan",
+      "kind": "中国企业日本法人（补充直招）",
+      "sector": "商社 / 金融",
+      "role": "销售职 · 策划营销",
+      "location": "日本东京（以录用通知为准）",
+      "cnSalary": "不适用",
+      "jpSalary": "26万日元/月（含45小时固定加班费68,062日元）",
+      "requirements": "2027年3月底前取得国内外专门学校/大学/研究生学历；提案销售、客户沟通；日语面试水平需确认。",
+      "fit": "关注",
+      "route": "日本岗位明确",
+      "evidence": "官方2027募集简章列正社员销售职。",
+      "cohort": "2027年3月底前毕业",
+      "status": "毕业时间可能不符",
+      "applyUrl": "https://recruit.kingsoft.jp/",
+      "applyType": "官方招聘入口",
+      "sourceUrl": "https://recruit.kingsoft.jp/wp-content/uploads/d11b68f4832dc6e9a4c9eb91cdde464b.pdf",
+      "note": "通常国内2027年6月毕业者不满足该批次时间；须问是否有秋入社。26万含固定加班费，不能等同基本工资。",
+      "deadline": "",
+      "verification": "PDF正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://recruit.kingsoft.jp/wp-content/uploads/d11b68f4832dc6e9a4c9eb91cdde464b.pdf"
+        }
+      ]
+    },
+    {
+      "id": "linkstec",
+      "company": "苏州工业园区凌志软件股份有限公司",
+      "kind": "中国企业",
+      "sector": "IT / 咨询",
+      "role": "对日开发实习生（27届） / 赴日工程师",
+      "location": "苏州；成熟技术岗在日本",
+      "cnSalary": "27届实习标薪单位异常，未采用",
+      "jpSalary": "社招年收500–850万日元（3年以上经验，非应届）",
+      "requirements": "27届实习要求计算机/软件/理科相关本科、编程基础；赴日社招N2且编码或设计3年以上。",
+      "fit": "补技能",
+      "route": "日本岗位明确",
+      "evidence": "已检索到赴日开发岗位；国内校招和赴日社招是两个门槛不同的岗位。",
+      "cohort": "2027实习 / 赴日社招",
+      "status": "岗位页可查",
+      "applyUrl": "https://cn.linkedin.com/jobs/view/4404185789/",
+      "applyType": "招聘平台岗位页",
+      "sourceUrl": "https://cn.linkedin.com/jobs/view/4404185789/",
+      "note": "领英抓取标薪200–250元/月与实习常见单位不一致，不擅改成元/天；日语专业与零经验均需另问。",
+      "deadline": "",
+      "verification": "检索摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://cn.linkedin.com/jobs/view/4404185789/"
+        },
+        {
+          "label": "赴日社招要求",
+          "url": "https://bebee.com/cn/jobs/ss-cn-j47s3w"
+        }
+      ]
+    },
+    {
+      "id": "okayama",
+      "company": "岗山软件开发（西安）有限公司",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "软件开发工程师 / 桥梁系统工程师培养",
+      "location": "西安；可赴日深造",
+      "cnSalary": "7,200元/月（2026简章）",
+      "jpSalary": "未公开",
+      "requirements": "2026届计算机相关本科；日语可入职后学；需技术专业与开发能力，纯日语专业不直接匹配。",
+      "fit": "补技能",
+      "route": "赴日研修",
+      "evidence": "简章福利明确赴日深造机会，未保证长期派驻。",
+      "cohort": "2026届",
+      "status": "历史项目待确认",
+      "applyUrl": "https://51uns.bysjy.com.cn/Announce/Details/3420529?schoolCode=10708",
+      "applyType": "高校招聘公告",
+      "sourceUrl": "https://51uns.bysjy.com.cn/Announce/Details/3420529?schoolCode=10708",
+      "note": "日本岡山中央システムズ在华子公司；2027是否开放日语专业、是否有岗位直赴日须确认。",
+      "deadline": "",
+      "verification": "检索摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://51uns.bysjy.com.cn/Announce/Details/3420529?schoolCode=10708"
+        }
+      ]
+    },
+    {
+      "id": "knowledge",
+      "company": "智锐科技（成都）有限公司",
+      "kind": "日系集团在华企业",
+      "sector": "IT / 咨询",
+      "role": "IT技术培养 · 赴日校招",
+      "location": "成都培训 → 日本",
+      "cnSalary": "旧简章培训生活补助金额未公开",
+      "jpSalary": "旧简章第一年约350万日元/年",
+      "requirements": "须核对新一期招募专业、技术测评与毕业时间；旧计划含半年日语和技术培训。",
+      "fit": "关注",
+      "route": "日本岗位明确",
+      "evidence": "官网旧校招安排2024年12月赴日，属于可追踪历史路径。",
+      "cohort": "2024旧计划",
+      "status": "历史项目待确认",
+      "applyUrl": "https://www.knowledge-edge.cn/collegerecruiting/",
+      "applyType": "官网校招入口",
+      "sourceUrl": "https://www.knowledge-edge.cn/collegerecruiting/",
+      "note": "本次正文抓取超时；旧薪资不能当成2027报价，需确认是否仍面向国内招募。",
+      "deadline": "",
+      "verification": "仅检索摘要/抓取超时",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.knowledge-edge.cn/collegerecruiting/"
+        }
+      ]
+    },
+    {
+      "id": "moon",
+      "company": "明月软件（西安对日研发中心）",
+      "kind": "中日合资（按招聘介绍）",
+      "sector": "IT / 咨询",
+      "role": "对日软件工程师",
+      "location": "西安；赴日安排未明",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2026统招本科；计算机或理工类相关专业；提供日语、开发及对日流程培训。",
+      "fit": "补技能",
+      "route": "待核实",
+      "evidence": "招聘公告确认对日业务与合资背景，没有读到明确赴日岗位承诺。",
+      "cohort": "2026届",
+      "status": "历史项目待确认",
+      "applyUrl": "https://haue.goworkla.cn/module/campustalkdetail/id-69d89d5a465e4ab116e62f88/nid-4751",
+      "applyType": "高校招聘公告",
+      "sourceUrl": "https://haue.goworkla.cn/module/campustalkdetail/id-69d89d5a465e4ab116e62f88/nid-4751",
+      "note": "名称、签约主体请依岗位公告核实；对日外包不必然安排人在日本。",
+      "deadline": "",
+      "verification": "检索摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://haue.goworkla.cn/module/campustalkdetail/id-69d89d5a465e4ab116e62f88/nid-4751"
+        }
+      ]
+    },
+    {
+      "id": "dhc",
+      "company": "信华信技术股份有限公司（原大连华信）",
+      "kind": "中国企业",
+      "sector": "IT / 咨询",
+      "role": "软件开发 / 测试 / 大数据工程师",
+      "location": "大连等；该岗位赴日地点未确认",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2026高校招聘需求含日语专业及计算机等理工专业；仍须核对对应岗位技术考试。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "2026高校招聘确认日语专业需求；此次未查到该批次赴日名额或条件。",
+      "cohort": "2026招聘会",
+      "status": "历史项目待确认",
+      "applyUrl": "https://it.dlufl.edu.cn/info/1032/2840.htm",
+      "applyType": "高校招聘会线索",
+      "sourceUrl": "https://it.dlufl.edu.cn/info/1032/2840.htm",
+      "note": "仅提供求职线索，公告不等于现在仍在招；应另索取企业当季正式投递入口。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://it.dlufl.edu.cn/info/1032/2840.htm"
+        }
+      ]
+    },
+    {
+      "id": "neusoft",
+      "company": "东软集团股份有限公司",
+      "kind": "中国企业",
+      "sector": "IT / 咨询",
+      "role": "驻日软件开发 / 国内开发实习",
+      "location": "大连 / 沈阳；驻日岗位在日本",
+      "cnSalary": "驻日聚合页标12,000–35,000元/月（非应届定薪）",
+      "jpSalary": "币种/薪资发放主体需确认",
+      "requirements": "2026高校招聘有开发和测试实习；驻日岗位需技术能力和日语流利，日语N1本身不足以满足。",
+      "fit": "补技能",
+      "route": "日本岗位明确",
+      "evidence": "招聘聚合页显示驻日开发岗；与高校国内实习岗位不是同一录用项目。",
+      "cohort": "2026实习 / 社招",
+      "status": "平台线索待复核",
+      "applyUrl": "https://www.liepin.com/s/87d262c9f6cbf527f099a4424023e79a/",
+      "applyType": "平台检索入口",
+      "sourceUrl": "https://www.liepin.com/s/87d262c9f6cbf527f099a4424023e79a/",
+      "note": "聚合页工资为驻日岗位展示区间，不能当成零经验报价；待拿到单岗位JD复核。",
+      "deadline": "",
+      "verification": "高校正文/平台摘要",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.liepin.com/s/87d262c9f6cbf527f099a4424023e79a/"
+        },
+        {
+          "label": "2026高校招聘记录",
+          "url": "https://it.dlufl.edu.cn/info/1043/2831.htm"
+        }
+      ]
+    },
+    {
+      "id": "isoftstone",
+      "company": "软通动力信息技术（集团）股份有限公司",
+      "kind": "中国企业",
+      "sector": "IT / 咨询",
+      "role": "2027职能 / 销售咨询 / 数字运营方向",
+      "location": "北京 / 上海 / 深圳 / 西安等",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2027毕业；专业方向含语言类；具体岗位另定，优先筛选日语、国际业务、日系客户方向。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "官网有日韩业务布局及日语专业毕业生案例，没有该校招岗位赴日承诺。",
+      "cohort": "2027届",
+      "status": "2027校招线索",
+      "applyUrl": "https://career.isoftstone.com/talent/htmls/xiaoyuanzhaopin/index.html",
+      "applyType": "官方校招入口",
+      "sourceUrl": "https://career.isoftstone.com/talent/htmls/tongzhizhuanqu/index.html",
+      "note": "集团业务覆盖日本不等于国内语言岗有外派指标；先问项目客户、配属与外派制度。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://career.isoftstone.com/talent/htmls/tongzhizhuanqu/index.html"
+        }
+      ]
+    },
+    {
+      "id": "newtouch",
+      "company": "上海新致软件股份有限公司",
+      "kind": "中国企业",
+      "sector": "IT / 咨询",
+      "role": "对日业务岗位（待查具体空缺）",
+      "location": "上海 / 大连 / 西安等；日本子公司",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "需在当季JD逐项核查日语、技术能力、经验与应届资格；此次未确认纯日语应届岗位。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "高校企业介绍列东京Newtouch等日本子公司，仅证明海外机构存在。",
+      "cohort": "届次未确认",
+      "status": "企业观察/无匹配JD",
+      "applyUrl": "https://career.ecnu.edu.cn/commonpage/CorpInfDetail.aspx?oid=bdPdOnNM20NptTrELRJypA%3D%3D",
+      "applyType": "高校企业职位入口",
+      "sourceUrl": "https://career.ecnu.edu.cn/commonpage/CorpInfDetail.aspx?oid=bdPdOnNM20NptTrELRJypA%3D%3D",
+      "note": "有日本子公司不代表内部员工必有赴日机会；先找当季日语/赴日关键词岗位。",
+      "deadline": "",
+      "verification": "检索摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://career.ecnu.edu.cn/commonpage/CorpInfDetail.aspx?oid=bdPdOnNM20NptTrELRJypA%3D%3D"
+        }
+      ]
+    },
+    {
+      "id": "beyondsoft",
+      "company": "博彦科技 / Beyondsoft Japan",
+      "kind": "中国企业日本法人",
+      "sector": "商社 / 金融",
+      "role": "营业事务职 · 可接受应届生",
+      "location": "日本东京品川；国内应聘需确认",
+      "cnSalary": "不适用",
+      "jpSalary": "300–360万日元/年（可协商）；平台月栏25–30万",
+      "requirements": "本科；N1必须、会话流利；Word/Excel基本操作；无经验可、性别不限；平台列可接受应届。",
+      "fit": "优先了解",
+      "route": "日本岗位明确",
+      "evidence": "完整岗位页列日本营业事务职，工作地东京，包含外国员工签证取得辅助。",
+      "cohort": "应届可；届次未定",
+      "status": "即日到岗/毕业时间需问",
+      "applyUrl": "https://jobway.co.jp/job/index.php?c=comapply&id=471",
+      "applyType": "招聘平台岗位页",
+      "sourceUrl": "https://jobway.co.jp/job/index.php?c=comapply&id=471",
+      "note": "页面2026-05-08更新，要求即日到岗；需问2027毕业生能否提前选考、是否接收国内在校生及能否新办工作签证。雇佣形式列正社员/契约/业务委托，须核实个人合同，不能一概当成正社员。这是日本法人直接招聘，并非已确认的国内合同外派。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "营业事务完整岗位页",
+          "url": "https://jobway.co.jp/job/index.php?c=comapply&id=471"
+        },
+        {
+          "label": "另有高级IT岗位（有经验门槛）",
+          "url": "https://jobway.co.jp/job/index.php?c=comapply&id=13"
+        }
+      ]
+    },
+    {
+      "id": "wicresoft",
+      "company": "微创软件日本 / Wicresoft Japan",
+      "kind": "中国企业日本法人",
+      "sector": "IT / 咨询",
+      "role": "新卒 / 第二新卒系统工程师",
+      "location": "日本；国内应聘资格待问",
+      "cnSalary": "不适用",
+      "jpSalary": "未公开",
+      "requirements": "平台校园频道有新卒、第二新卒工程师；学历、日语、是否海外居住可投、技术门槛均待单岗确认。",
+      "fit": "关注",
+      "route": "日本岗位明确",
+      "evidence": "中日IT招聘平台校园频道列日本新卒工程师方向。",
+      "cohort": "新卒 / 第二新卒",
+      "status": "平台线索待复核",
+      "applyUrl": "https://jobway.co.jp/school/index.php",
+      "applyType": "平台校园岗位列表",
+      "sourceUrl": "https://jobway.co.jp/school/index.php",
+      "note": "列表不是完整JD，不承诺在国内可以办理赴日手续；需确认工作签证支持和真实雇主。",
+      "deadline": "",
+      "verification": "列表摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://jobway.co.jp/school/index.php"
+        }
+      ]
+    },
+    {
+      "id": "abeam",
+      "company": "德硕管理咨询 / ABeam中国",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "助理顾问 / ERP咨询顾问",
+      "location": "上海 / 深圳；具体项目出差",
+      "cnSalary": "月薪未公开；上海公告13薪另加Bonus",
+      "jpSalary": "未公开",
+      "requirements": "官网2026助理顾问本科、专业不限、日语口语流利；深圳ERP顾问本科、专业不限，能用英语或日语交流。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "官方岗位接受出差，但所读校招页未明确日本派驻；先确认项目地域。",
+      "cohort": "官网2026届；2027待确认",
+      "status": "历史项目待确认",
+      "applyUrl": "https://www.abeam.com/cn/zh/careers_cn/campus_recruiting2026/",
+      "applyType": "官方校招公告",
+      "sourceUrl": "https://www.abeam.com/cn/zh/careers_cn/campus_recruiting2026/",
+      "note": "第三方有2027信息，但未用其替代官方2026条件；以新一届正式JD为准。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.abeam.com/cn/zh/careers_cn/campus_recruiting2026/"
+        },
+        {
+          "label": "上海招聘咨询",
+          "url": "mailto:cnabcnabrecruit@abeam.com"
+        },
+        {
+          "label": "深圳简历投递",
+          "url": "mailto:riwen@abeam.com"
+        }
+      ]
+    },
+    {
+      "id": "gac",
+      "company": "广汽丰田汽车有限公司",
+      "kind": "中日合资",
+      "sector": "制造 / 工程",
+      "role": "日语翻译 / 综合管理类",
+      "location": "广东广州南沙",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2026-09至2027-07毕业，本科及以上；CET4或N1；公告列日语翻译，具体专业条件需看该职位。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "2027招聘确认日语翻译需求和中日各50%合资背景，未确认该岗赴日计划。",
+      "cohort": "2027届",
+      "status": "公告有岗/官网待确认",
+      "applyUrl": "https://gac-toyota.zhiye.com/Campus",
+      "applyType": "官方校招入口",
+      "sourceUrl": "https://career.nankai.edu.cn/correcruit/content/id/118608.html",
+      "note": "高校2027总简章列日语翻译，但10月29日官网两页共26条校招岗位未见该岗位；请先问岗位是否已满或另有渠道。日本外派未核实。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://career.nankai.edu.cn/correcruit/content/id/118608.html"
+        },
+        {
+          "label": "当前官网校招列表（两页）",
+          "url": "https://gac-toyota.zhiye.com/Campus"
+        }
+      ]
+    },
+    {
+      "id": "wuyang",
+      "company": "五羊－本田摩托（广州）有限公司",
+      "kind": "中日合资",
+      "sector": "制造 / 工程",
+      "role": "综合管理类储备 · 日语方向",
+      "location": "广州增城",
+      "cnSalary": "2027总简章8,000–10,000元/月；专场10,800–14,200元口径待问",
+      "jpSalary": "研修期补贴未公开",
+      "requirements": "2027本科及以上；综合管理方向含日语、人力、企管、供应；具体成绩与语言要求见岗位。",
+      "fit": "优先了解",
+      "route": "赴日地点待核实",
+      "evidence": "简章提优秀员工出国研修，但未写研修国家及该岗名额；不能认定一定去日本。",
+      "cohort": "2027届",
+      "status": "2027校招线索",
+      "applyUrl": "https://wecruit.hotjob.cn/SU65e980e21c240e0a224fed7d/pb/index.html",
+      "applyType": "官方校招入口",
+      "sourceUrl": "https://gsut.bysjy.com.cn/detail/online?id=3624434",
+      "note": "两来源标薪不一致，不能混用；须问月基本工资、奖金和年收入构成，以及日本研修可能性。",
+      "deadline": "",
+      "verification": "高校正文/平台正文",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://gsut.bysjy.com.cn/detail/online?id=3624434"
+        },
+        {
+          "label": "同名岗位招聘专场及标薪",
+          "url": "https://www.job168.com/jobfair/jobInfo.jsp?apply_no=15315962&recruit_no=262248502"
+        }
+      ]
+    },
+    {
+      "id": "denso",
+      "company": "烟台首钢电装 / 电装中国招聘渠道",
+      "kind": "中日合资（目标法人需确认）",
+      "sector": "制造 / 工程",
+      "role": "英日翻译 J11929",
+      "location": "山东烟台福山区/开发区",
+      "cnSalary": "平台列表7,000–9,000元/月·15薪",
+      "jpSalary": "未公开",
+      "requirements": "本科；N1+TOEIC700以上，或英语专八+N2以上；双语口语及邮件熟练；营业业务处理。",
+      "fit": "优先了解",
+      "route": "待核实",
+      "evidence": "岗位涉及日本本社及海外据点协作，未明确赴日派驻。",
+      "cohort": "经验不限；届次待问",
+      "status": "岗位页可查",
+      "applyUrl": "https://www.zhaopin.com/jobdetail/CC120665060J40890518909.htm",
+      "applyType": "招聘平台岗位页",
+      "sourceUrl": "https://www.zhaopin.com/jobdetail/CC120665060J40890518909.htm",
+      "note": "薪资及烟台首钢电装主体来自51job列表，智联由电装中国发布且未显示工资；先核实最终用人法人和15薪条件。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.zhaopin.com/jobdetail/CC120665060J40890518909.htm"
+        },
+        {
+          "label": "51job同编号薪资及主体",
+          "url": "https://mfanyi.51job.com/yantai/riyufy/"
+        },
+        {
+          "label": "另有日语翻译J11907（要求制造业经验/实习）",
+          "url": "https://www.zhaopin.com/jobdetail/CC120665060J40850039609.htm"
+        }
+      ]
+    },
+    {
+      "id": "iris",
+      "company": "爱丽思（中国）",
+      "kind": "日资企业",
+      "sector": "制造 / 工程",
+      "role": "日语企划 · 家居/宠物产品",
+      "location": "辽宁大连开发区",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2026校招日语岗位；日语熟练，有赴日留学经历优先；能理解产品研发、独立思考。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "官网有日语企划岗位，没有该岗赴日培训或外派承诺。",
+      "cohort": "2026校招",
+      "status": "官网岗位可查",
+      "applyUrl": "mailto:liu_hui@iris.net.cn",
+      "applyType": "官方邮箱投递",
+      "sourceUrl": "https://www.iris.net.cn/join.asp?action=A2",
+      "note": "可用N1与产品企划作品切入；先确认2027应届是否接受、是否接触日本项目或赴日研修。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.iris.net.cn/join.asp?action=A2"
+        }
+      ]
+    },
+    {
+      "id": "panasonic",
+      "company": "松下集团在华企业",
+      "kind": "日资/合资（按法人）",
+      "sector": "制造 / 工程",
+      "role": "2027语言类 · 日语相关岗位",
+      "location": "无锡 / 苏州 / 广州 / 大连等",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "全球2027毕业生；目标专业含日语；每个子公司职位、N1、英语及实习要求不同。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "2027集团公告确认日语专业需求，未列特定赴日岗位或名额。",
+      "cohort": "2027届",
+      "status": "2027校招线索",
+      "applyUrl": "https://myjob.dlmu.edu.cn/campus/view/id/869182",
+      "applyType": "公告内扫码投递",
+      "sourceUrl": "https://myjob.dlmu.edu.cn/campus/view/id/869182",
+      "note": "子公司性质和岗位各异；不可把松下集团海外体系当成国内招聘的外派承诺。",
+      "deadline": "",
+      "verification": "检索摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://myjob.dlmu.edu.cn/campus/view/id/869182"
+        }
+      ]
+    },
+    {
+      "id": "psdcd",
+      "company": "松下电器软件开发（大连）有限公司",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "2027软件开发工程师",
+      "location": "辽宁大连",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "本科及以上理工科；热爱开发且有开发经验者不限专业；会一门开发语言；英语CET4及以上。",
+      "fit": "补技能",
+      "route": "待核实",
+      "evidence": "官网校招经高校发布，提供对日业务平台，但所读公告未承诺赴日安排。",
+      "cohort": "2027届",
+      "status": "2027校招线索",
+      "applyUrl": "http://psdcdzp.zhaopin.com",
+      "applyType": "企业校招专页",
+      "sourceUrl": "https://jdjywpt.jlu.edu.cn/portal/jyzp/recruit/details?id=3c2a9dd490534b44b68f44f08e087856",
+      "note": "日语专业可否投主要看已有开发经验；不能将N1替代英语四级或编程能力。",
+      "deadline": "",
+      "verification": "检索摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://jdjywpt.jlu.edu.cn/portal/jyzp/recruit/details?id=3c2a9dd490534b44b68f44f08e087856"
+        }
+      ]
+    },
+    {
+      "id": "sony",
+      "company": "索尼信息系统（中国）有限公司",
+      "kind": "日资企业",
+      "sector": "IT / 咨询",
+      "role": "2027软件工程师",
+      "location": "辽宁大连",
+      "cnSalary": "6,000–7,000元/月（高校职位栏）",
+      "jpSalary": "未公开",
+      "requirements": "正文要求理工科本科/硕士；掌握C/Java/Python等一种语言，系统学过计算机课程；CET4或N2相当。",
+      "fit": "补技能",
+      "route": "待核实",
+      "evidence": "业务支持日本和亚太，但2027校招正文未承诺日本外派。",
+      "cohort": "2027届；未就业往届可投",
+      "status": "2027校招线索",
+      "applyUrl": "http://sony.zhaopin.com/",
+      "applyType": "企业校招专页",
+      "sourceUrl": "https://myjob.dlmu.edu.cn/campus/view/id/868998",
+      "note": "高校列表虽写不限专业，正文写理工科，应以正文约束为准；纯语言背景需确认。",
+      "deadline": "",
+      "verification": "检索摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://myjob.dlmu.edu.cn/campus/view/id/868998"
+        }
+      ]
+    },
+    {
+      "id": "smbc",
+      "company": "三井住友银行（中国）有限公司",
+      "kind": "日资企业",
+      "sector": "商社 / 金融",
+      "role": "公司治理 / 营业推进 / 日系营业助理",
+      "location": "上海等（按岗位）",
+      "cnSalary": "10,000–12,000元/月（高校公告转载）",
+      "jpSalary": "未公开",
+      "requirements": "2027本科及以上；多岗位专业不限，金融财会知识优先；CET6或N1，部分岗位日语必须。",
+      "fit": "优先了解",
+      "route": "待核实",
+      "evidence": "在华校招确有日语岗，未查到该批次日本派驻承诺。",
+      "cohort": "2027届",
+      "status": "2027校招线索",
+      "applyUrl": "https://smbccn.zhiye.com/campus/jobs",
+      "applyType": "官方校招入口",
+      "sourceUrl": "https://www.eoffcn.com/kszx/detail/2208393.html",
+      "note": "标薪来自高校公告的第三方转载，最终需官方JD确认；不把海外网点等同中国员工赴日制度。",
+      "deadline": "",
+      "verification": "转载摘要核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.eoffcn.com/kszx/detail/2208393.html"
+        },
+        {
+          "label": "转载注明的原高校来源",
+          "url": "https://career.sysu.edu.cn/campus/view/id/997153"
+        }
+      ]
+    },
+    {
+      "id": "marubeni",
+      "company": "丸红（中国）有限公司",
+      "kind": "日资企业",
+      "sector": "商社 / 金融",
+      "role": "营业 / 职能岗位（当季匹配待查）",
+      "location": "中国各法人/地区，具体岗位确认",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "官方全年按法人/部门需求招募应届及经验者；当前可见IT数字化项目担当，非已核实日语应届营业岗。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "全球业务平台，未查到当季赴日岗位或派遣条件。",
+      "cohort": "全年招聘",
+      "status": "企业观察/无匹配JD",
+      "applyUrl": "https://marubeni-cn.com/recruitments",
+      "applyType": "官方招聘列表",
+      "sourceUrl": "https://marubeni-cn.com/recruitments",
+      "note": "以当前列表筛选。旧JOB博部分岗位有限女性或留学经历要求，不适合作为本次男生应届的现行岗位依据。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://marubeni-cn.com/recruitments"
+        }
+      ]
+    },
+    {
+      "id": "itochu",
+      "company": "伊藤忠（中国）集团有限公司",
+      "kind": "日资企业",
+      "sector": "商社 / 金融",
+      "role": "贸易 / 营业 / 职能方向（非确认空缺）",
+      "location": "中国；具体招聘法人和地点待确认",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "当前官网人才介绍未公开具体职位条件；N1、商贸知识及英语可用于后续匹配，不能当成已满足岗位。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "官网称可在全球业务网络发展，但未列当前赴日名额。",
+      "cohort": "届次未确认",
+      "status": "企业观察/无匹配JD",
+      "applyUrl": "https://www.itochu.com/cn/cn/careers/index.html",
+      "applyType": "官方人才入口",
+      "sourceUrl": "https://www.itochu.com/cn/cn/careers/index.html",
+      "note": "仅作企业观察；应先确认是否有中国应届岗位与日本派遣制度。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.itochu.com/cn/cn/careers/index.html"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi",
+      "company": "三菱商事（中国）有限公司",
+      "kind": "日资企业",
+      "sector": "商社 / 金融",
+      "role": "贸易 / 营业方向（非确认空缺）",
+      "location": "上海 / 北京 / 武汉 / 广州等",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "此次未找到当前中国日语应届职位的完整JD，不将N1直接判定为符合。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "有在华机构及中日贸易业务，未核实当前赴日招聘。",
+      "cohort": "届次未确认",
+      "status": "企业观察/无匹配JD",
+      "applyUrl": "https://www.mitsubishicorp.com/cn/zh/index.html",
+      "applyType": "官网核查入口",
+      "sourceUrl": "https://www.mitsubishicorp.com/cn/zh/index.html",
+      "note": "官网提醒未在其他网站/媒体发布招聘信息；本行不提供第三方所谓内部岗位。",
+      "deadline": "",
+      "verification": "正文核查",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://www.mitsubishicorp.com/cn/zh/index.html"
+        }
+      ]
+    },
+    {
+      "id": "giada",
+      "company": "深圳市杰和科技发展有限公司",
+      "kind": "中国企业",
+      "sector": "海外销售 / 贸易",
+      "role": "海外销售 · 日本（2027）",
+      "location": "深圳招募；日本市场，常驻地未明",
+      "cnSalary": "未公开",
+      "jpSalary": "未公开",
+      "requirements": "2027全日制本科；日语书面及口语流利、可商务沟通；销售与市场开发能力。",
+      "fit": "关注",
+      "route": "待核实",
+      "evidence": "岗位标题为日本市场销售，不能据此认定工作地点常驻日本。",
+      "cohort": "2027届",
+      "status": "平台线索待复核",
+      "applyUrl": "https://jy.gzhu.edu.cn/index.php/web/Index/job-detail?id=156050",
+      "applyType": "高校岗位线索",
+      "sourceUrl": "https://jy.gzhu.edu.cn/index.php/web/Index/job-detail?id=156050",
+      "note": "当前正文动态加载为空，仅搜索摘要可见；需核实企业最新直接投递地址、薪资、差旅及驻地。",
+      "deadline": "",
+      "verification": "仅检索摘要/正文为空",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://jy.gzhu.edu.cn/index.php/web/Index/job-detail?id=156050"
+        }
+      ]
+    },
+    {
+      "id": "tianjin",
+      "company": "天津匠造食品开发",
+      "kind": "企业性质待核实",
+      "sector": "制造 / 工程",
+      "role": "日语专业应届毕业生 · 赴日培养",
+      "location": "天津招募 → 日本生产现场",
+      "cnSalary": "平台标15,000–20,000元/月；阶段/币种需复核",
+      "jpSalary": "是否对应赴日工资待确认",
+      "requirements": "平台列本科、在校/应届、日语专业；赴日生产现场学习，考核后生产管理/营业/职能岗位。",
+      "fit": "关注",
+      "route": "日本岗位明确",
+      "evidence": "BOSS聚合页写明外派日本学习产品与工艺，考核后定岗。",
+      "cohort": "应届（未标年）",
+      "status": "平台线索待复核",
+      "applyUrl": "https://m.zhipin.com/zhaopin/3a22acbf46d4d1de0X183tm1/",
+      "applyType": "平台检索入口",
+      "sourceUrl": "https://m.zhipin.com/zhaopin/3a22acbf46d4d1de0X183tm1/",
+      "note": "仅列表摘要，未取得单岗直链及完整用人法人；务必先核实签约主体、发薪币种、工种及收费，不作为优先推荐。",
+      "deadline": "",
+      "verification": "仅平台聚合摘要",
+      "checkedAt": "2026-10-29",
+      "sources": [
+        {
+          "label": "招聘/制度出处",
+          "url": "https://m.zhipin.com/zhaopin/3a22acbf46d4d1de0X183tm1/"
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "company": "中国银行东京分行",
+      "reason": "2027公告转载要求现有日本中长期在留资格；全球网申已于2026-10-09截止。不能作为国内应届现在可办赴日的岗位。",
+      "salary": "2027工资未公开；不沿用2026春招23万日元报价",
+      "url": "https://m.yinhangzhaopin.com/zgyhzp/2026-09-04/224752.htm",
+      "source": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html"
+    },
+    {
+      "company": "KINX Japan",
+      "reason": "官网应聘条件列日本国内学历/在日居住等条件，并有2024/2025旧毕业年份；不按国内零经验直赴日推荐。",
+      "salary": "基本月薪20万日元起（官网旧条件）",
+      "url": "https://www.kinx.co.jp/Cn/hire.html",
+      "source": "https://www.kinx.co.jp/Cn/hire.html"
+    },
+    {
+      "company": "MUJI无印良品在日留学生通道",
+      "reason": "所查通道面向在日留学生，录用地点回上海；不能理解为国内毕业生派往日本。",
+      "salary": "页面无明确金额",
+      "url": "https://zp.muji.com.cn/MujiRecruitment/Pager/phone/positionOverseaDetail.aspx",
+      "source": "https://zp.muji.com.cn/MujiRecruitment/Pager/phone/positionOverseaDetail.aspx"
+    }
+  ]
+}
